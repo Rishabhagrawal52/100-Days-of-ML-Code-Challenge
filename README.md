@@ -13,3 +13,7 @@
 	1. learnt more about classification problems and various algorithms related to it
 	2. Implementing Support Vector Machine usign numpy and matplotlib only
 	3. implementing SVM using sklearn
+
+   Day3 (04-Sep-2018):
+	
+	Made a gender classifier
