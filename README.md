@@ -17,3 +17,7 @@
    Day3 (04-Sep-2018):
 	
 	Made a gender classifier
+   
+   Day4 (05-Sep-2018):
+   
+   	made a model of polynomial regression of diiferent oredrs on random dataset
