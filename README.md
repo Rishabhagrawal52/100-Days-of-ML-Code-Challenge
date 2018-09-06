@@ -11,13 +11,16 @@
    Day 2 (03-Sep-2018):
 	
 	1. learnt more about classification problems and various algorithms related to it
-	2. Implementing Support Vector Machine usign numpy and matplotlib only
-	3. implementing SVM using sklearn
+	2. Tried Implementing Support Vector Machine usign numpy and matplotlib only
 
-   Day3 (04-Sep-2018):
+   Day 3 (04-Sep-2018):
 	
 	Made a gender classifier
    
-   Day4 (05-Sep-2018):
+   Day 4 (05-Sep-2018):
    
-   	made a model of polynomial regression of diiferent oredrs on random dataset
+   	Made a model of polynomial regression of diiferent oredrs on random dataset
+	
+   Day 5 (06-Sep-2018):
+	
+	Read and Learnt More about Support Vector Machines
