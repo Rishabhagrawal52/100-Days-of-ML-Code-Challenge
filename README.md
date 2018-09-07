@@ -24,3 +24,7 @@
    Day 5 (06-Sep-2018):
 	
 	Read and Learnt More about Support Vector Machines
+
+   Day 6(07-Sep-2018):
+	
+	tried implementing SVMs once again
