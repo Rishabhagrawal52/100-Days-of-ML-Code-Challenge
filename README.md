@@ -28,3 +28,7 @@
    Day 6(07-Sep-2018):
 	
 	tried implementing SVMs once again
+   
+   Day 7(08-Sep-2018):
+   	
+	watched a lecture about logistic regression
