@@ -32,3 +32,8 @@
    Day 7(08-Sep-2018):
    	
 	watched a lecture about logistic regression
+
+   Day 8(09-Sep-2018):
+   
+	Learning how to implement logistic regression in python
+	
