@@ -37,3 +37,7 @@
    
 	Learning how to implement logistic regression in python
 	
+   Day 9(09-Sep-2018):
+   
+	continued, Made Changes, and removed errors from the logistic Regression file created yesterday
+	
