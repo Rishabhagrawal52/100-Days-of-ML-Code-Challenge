@@ -37,3 +37,8 @@
    
 	Learning how to implement logistic regression in python
 	
+   Day 9(10-Sep-2018):
+   	
+	completed implementing the logistic regression from yesterday's code
+	
+	
