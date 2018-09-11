@@ -40,5 +40,9 @@
    Day 9(10-Sep-2018):
    	
 	completed implementing the logistic regression from yesterday's code
+
+   Day 10(11-Sep-2018):
+	
+	took some lectures about decision trees algo in regression and classification problems
 	
 	
