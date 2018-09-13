@@ -49,3 +49,9 @@
    
     Made a python Code for Decision tree algorithm for regression problem for a sampled dataset.
     
+   Day 12(13-Sep-2018):
+	
+	Learnt about Random Forest And Ensemble Learning
+	Made a short simple code on Random Forest Regression using Sklearn
+	
+	
