@@ -54,4 +54,8 @@
 	Learnt about Random Forest And Ensemble Learning
 	Made a short simple code on Random Forest Regression using Sklearn
 	
-	
+   Day 13(14-Sep-2018):
+    
+    Relearnt about the r-squared error concept for evaluating the performance of regression algorithms
+    Learnt about the Logistic regressions once again
+    started implementing Logistic regression using sklearn
