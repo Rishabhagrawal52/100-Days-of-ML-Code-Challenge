@@ -59,7 +59,11 @@
     Relearnt about the r-squared error concept for evaluating the performance of regression algorithms
     Learnt about the Logistic regressions once again
     started implementing Logistic regression using sklearn
-    
+	
    Day 14(15-Sep-2018):
    
     Relearnt about the support vector machines and learnt about the K nearest neighbours
+
+   Day 15(16-Sep-2018):
+    Made changes to the logistic regression file removed error finalized the model
+	Added the knn file still incomplete
