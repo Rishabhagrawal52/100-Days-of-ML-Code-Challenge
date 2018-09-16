@@ -63,7 +63,8 @@
    Day 14(15-Sep-2018):
    
     Relearnt about the support vector machines and learnt about the K nearest neighbours
-
+    
    Day 15(16-Sep-2018):
+   
     Made changes to the logistic regression file removed error finalized the model
-	Added the knn file still incomplete
+    Added the knn file still incomplete
