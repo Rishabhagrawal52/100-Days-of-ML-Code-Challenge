@@ -68,3 +68,7 @@
    
     Made changes to the logistic regression file removed error finalized the model
     Added the knn file still incomplete
+   
+   Day 16(17-Sep-2018):
+   
+	Completed the KNN algo on the previous dataset that i was working yesterday
