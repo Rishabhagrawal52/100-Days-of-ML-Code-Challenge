@@ -72,3 +72,12 @@
    Day 16(17-Sep-2018):
    
 	Completed the KNN algo on the previous dataset that i was working yesterday
+	
+   Day 17(18-Spe-2018):
+    
+	Used Kaggle for the first time
+	
+	day 18(19-Sep-2018):
+	 
+	 Learnt about Naive Bayes
+	 Implemented Naive Bayes on Social network datset
