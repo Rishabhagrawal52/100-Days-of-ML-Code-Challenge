@@ -81,3 +81,7 @@
 	 
 	 Learnt about Naive Bayes
 	 Implemented Naive Bayes on Social network datset
+	 
+	Day 19(20-Sep-2018):
+
+	 Started visualising the titanic dataset on kaggle
