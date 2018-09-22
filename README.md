@@ -77,11 +77,20 @@
     
 	Used Kaggle for the first time
 	
-	day 18(19-Sep-2018):
+   Day 18(19-Sep-2018):
 	 
-	 Learnt about Naive Bayes
-	 Implemented Naive Bayes on Social network datset
+	Learnt about Naive Bayes
+	Implemented Naive Bayes on Social network datset
 	 
-	Day 19(20-Sep-2018):
+   Day 19(20-Sep-2018):
 
-	 Started visualising the titanic dataset on kaggle
+	Started visualising the titanic dataset on kaggle
+	 
+   Day 20(21-Sep-2018):
+	
+	Spent the day trying to get something out of the given dataset
+	 
+   Day 21(22-Sep-2018):
+	 
+	 Learnt about Kernel SVMs
+	 Tried visualising various datasets
