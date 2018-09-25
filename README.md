@@ -94,3 +94,16 @@
 	 
 	 Learnt about Kernel SVMs
 	 Tried visualising various datasets
+	 
+   Day 22(23-Sep-2018):
+   
+	Learnt about k Means Clustering
+	Did some work in titanic dataset
+	
+   Day 23(24-Sep-2018):
+   
+	Learnt about HEirarchical clustering	
+	
+   Day24(25-Sep-2018):
+   
+	Finally submitted my first kaggle competition code
