@@ -107,3 +107,8 @@
    Day24(25-Sep-2018):
    
 	Finally submitted my first kaggle competition code
+    
+   Day 25(26-Sep-2018):
+
+    Started off working on a new kaggle competition
+    https://github.com/Rishabhagrawal52/Housing-Prices-Prediction
