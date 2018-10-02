@@ -112,3 +112,26 @@
 
     Started off working on a new kaggle competition
     https://github.com/Rishabhagrawal52/Housing-Prices-Prediction
+    
+   Day 26(27-Sep-2018):
+    
+    working on and studying to build a neural network
+    
+   Day 27(28-Sep-2018):
+
+    Finally completed building a neural network in python using keras
+   
+   Day 28(29-Sep-2018):
+
+    working on implementing another clean model of neural network using tensorflow
+   
+   Day 29(30-Sep-2018):
+   
+    Working on implementing the neural network model on the kaggle housing prices prediction model
+   
+   Day 30(01-Sep-2018):
+   
+    working on the implementation of neural network on the kaggle house prices prediction model
+
+   
+    
