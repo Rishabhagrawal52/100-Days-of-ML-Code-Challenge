@@ -102,7 +102,7 @@
 	
    Day 23(24-Sep-2018):
    
-	Learnt about HEirarchical clustering	
+	Learnt about HEirarchical clustering
 	
    Day24(25-Sep-2018):
    
