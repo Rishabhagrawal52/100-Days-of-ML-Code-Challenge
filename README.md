@@ -129,9 +129,16 @@
    
     Working on implementing the neural network model on the kaggle housing prices prediction model
    
-   Day 30(01-Sep-2018):
+   Day 30(01-Oct-2018):
    
     working on the implementation of neural network on the kaggle house prices prediction model
+	
+   Day 31(02-Oct-2018):
+   
+	Learnt about apriori algorithm
+	
+   Day 32(03-Oct-2018):
+   
 
    
     
