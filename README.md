@@ -115,7 +115,7 @@
     
    Day 26(27-Sep-2018):
     
-    working on and studying to build a neural network
+    Working on and studying to build a neural network
     
    Day 27(28-Sep-2018):
 
@@ -123,7 +123,7 @@
    
    Day 28(29-Sep-2018):
 
-    working on implementing another clean model of neural network using tensorflow
+    Working on implementing another clean model of neural network using tensorflow
    
    Day 29(30-Sep-2018):
    
@@ -131,7 +131,7 @@
    
    Day 30(01-Sep-2018):
    
-    working on the implementation of neural network on the kaggle house prices prediction model
+    Working on the implementation of neural network on the kaggle house prices prediction model
 
    
     
